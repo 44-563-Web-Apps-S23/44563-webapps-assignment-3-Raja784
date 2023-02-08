@@ -1,3 +1,4 @@
 # WebApps-S23-Assignment-3
 Assignment 3 - Basic HTML
-"Hosated at" : https://github.com/Raja784
+# Hosted at 
+https://44-563-web-apps-s23.github.io/44563-webapps-assignment-3-Raja784/
